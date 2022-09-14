@@ -8,14 +8,13 @@ package com.mycompany.ensayo1;
  *
  * @author pc3
  */
-public class Ejemplo1 {
+public class Ejemplo2 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("este es un mensaje de prueba");
-        System.out.println("estoy creando mi primer ejemplo en githup");// TODO code application logic here
+        System.out.println("mi segundo ejemplo en githup");// TODO code application logic here
     }
     
 }
