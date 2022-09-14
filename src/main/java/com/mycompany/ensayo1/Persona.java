@@ -14,7 +14,11 @@ public class Persona {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hola a todos");// TODO code application logic here
+        System.out.println("hola a todos");
+        System.out.println("hola");
+        
+        int x = 4;
+        double y = 3;
     }
     
 }
